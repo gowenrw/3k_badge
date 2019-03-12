@@ -1,5 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:3000_Society_Badge
+LIBS:LED
 LIBS:power
 LIBS:device
 LIBS:switches
@@ -56,6 +57,17 @@ F 1 "Trinket3v3" H 4800 2150 50  0000 C CNN
 F 2 "3000_Society_Badge:Trinket_3v3" H 4400 2550 50  0000 C CIN
 F 3 "" H 4400 2550 50  0000 C CNN
 	1    4400 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L WS2812B D1
+U 1 1 5C872748
+P 2550 2550
+F 0 "D1" H 2750 2775 50  0000 R BNN
+F 1 "WS2812B" H 2600 2325 50  0000 L TNN
+F 2 "3000_Society_Badge:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 2600 2250 50  0001 L TNN
+F 3 "" H 2650 2175 50  0001 L TNN
+	1    2550 2550
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
