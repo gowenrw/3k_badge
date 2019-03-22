@@ -66,22 +66,19 @@ def wheeln(pos):
 i = 0
 while True:
   # spin internal LED around! autoshow is on
-#  dot[0] = wheeld(i & 255)
+  dot[0] = wheeld(i & 255)
 #  dot[0] = (0,255,0)
 
-# neopixel values = (G,R,B)
-  if i < 256:
-      neopixels[0] = (0,i,0)
-      neopixels[1] = (0,i,0)
-      neopixels[2] = (0,0,i)
-      neopixels[3] = (0,0,i)
-      j = 1
-  else:
-      neopixels[0] = (0,(256 - j),0)
-      neopixels[1] = (0,(256 - j),0)
-      neopixels[2] = (0,0,(256 - j))
-      neopixels[3] = (0,0,(256 - j))
-      j = (j+1)
+  # also make the neopixels swirl around
+  #for p in range(NUMPIXELS):
+  #    idx = int ((p * 256 / NUMPIXELS) + i)
+  #    neopixels[p] = wheel(idx & 255)
+  #neopixels.show()
+#  neopixels[0] = (0, 255, 0)
+  neopixels[0] = wheeln(i & 255)
+  neopixels[1] = wheeln(i & 255)
+  neopixels[2] = wheeln(i & 255)
+  neopixels[3] = wheeln(i & 255)
   neopixels.show()
 
   # use D3 as capacitive touch to turn on internal LED
@@ -90,5 +87,5 @@ while True:
 #  led.value = touch.value
 
 #  print (i)
-  i = (i+1) % 512
-#  time.sleep(0.001) # make bigger to slow down
+  i = (i+1) % 256  # run from 0 to 255
+  time.sleep(0.02) # make bigger to slow down
