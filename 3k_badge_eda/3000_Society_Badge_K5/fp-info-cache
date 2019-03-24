@@ -1,15 +1,43 @@
-3104527689230
+9315821614345
 3000_Society_Badge
-LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
-https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
-LED RGB NeoPixel
+CP_Radial_D6.3mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
+0
+2
+2
+3000_Society_Badge
+LED_D5.0mm-4_RGB
+LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, diameter 5.0mm, 4 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
 0
 4
 4
 3000_Society_Badge
-Trinket_3v3
-IC, Adafruit, Trinket M0, 3v3, Trinket3v3
-IC Adafruit Trinket M0 3v3 Trinket3v3
+LED_D5.0mm-4_RGB_Wide_Pins
+LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, diameter 5.0mm, 4 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
+0
+4
+4
+3000_Society_Badge
+LED_D8.0mm-4_RGB
+LED, diameter 8.0mm, 2 pins, diameter 8.0mm, 3 pins, diameter 8.0mm, 4 pins
+LED diameter 8.0mm 2 pins diameter 8.0mm 3 pins diameter 8.0mm 4 pins RGB RGBLED
+0
+4
+4
+3000_Society_Badge
+R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
+2
+3000_Society_Badge
+Trinket_M0
+IC, Adafruit, Trinket M0, Trinket
+IC Adafruit Trinket M0 Trinket_M0
 0
 10
 10

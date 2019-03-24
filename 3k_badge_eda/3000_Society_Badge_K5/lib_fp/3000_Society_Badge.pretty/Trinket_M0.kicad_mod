@@ -1,10 +1,10 @@
-(module Trinket:Trinket_3v3
+(module Trinket_M0
   (layer F.Cu)
   (tedit 5A120419)
-  (descr "IC, Adafruit, Trinket M0, 3v3, Trinket3v3")
-  (tags "IC Adafruit Trinket M0 3v3 Trinket3v3")
+  (descr "IC, Adafruit, Trinket M0, Trinket")
+  (tags "IC Adafruit Trinket M0 Trinket_M0")
   (fp_text reference REF** (at 0 1.27) (layer F.SilkS) (effects (font (size 1 1) (thickness 0.15))) )
-  (fp_text value Trinket_M0_3v3 (at 0 6.985) (layer F.Fab) (effects (font (size 1 1) (thickness 0.15))) )
+  (fp_text value Trinket_M0 (at 0 6.985) (layer F.Fab) (effects (font (size 1 1) (thickness 0.15))) )
   (fp_line (start -6.985 24.765) (end -7.62 24.765) (layer F.SilkS) (width 0.15))
   (fp_line (start 7.62 24.765) (end 7.62 1.27) (layer F.SilkS) (width 0.15))
   (fp_line (start -5.08 26.67) (end -6.985 24.765) (layer F.SilkS) (width 0.15))
