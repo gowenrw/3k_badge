@@ -1,7 +1,8 @@
 EESchema Schematic File Version 4
+LIBS:3000_Society_Badge_K5-cache
 EELAYER 29 0
 EELAYER END
-$Descr A 11000 8500
+$Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "3000 Society Badge Schematic"
