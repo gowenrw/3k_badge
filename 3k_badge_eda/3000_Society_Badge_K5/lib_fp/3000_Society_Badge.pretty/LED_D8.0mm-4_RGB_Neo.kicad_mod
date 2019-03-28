@@ -34,7 +34,7 @@
   (pad 2 thru_hole oval (at 1.778 0) (size 1.07 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 3.302 0) (size 1.07 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at 4.826 0) (size 1.07 1.8) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/3d_models/LED_D8.0mm-4-RGB.wrl
+  (model ${KIPRJMOD}/3d_models/LED_D8.0mm-4-RGB_Neo.wrl
     (offset (xyz 0 0 0.2539999961853027))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

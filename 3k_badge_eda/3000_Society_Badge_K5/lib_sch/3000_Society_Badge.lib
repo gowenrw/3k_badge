@@ -28,7 +28,7 @@ ENDDEF
 DEF LED_NeoPixel_THT_5mm D 0 10 Y Y 1 F N
 F0 "D" 200 225 50 H V R BNN
 F1 "LED_NeoPixel_THT_5mm" 50 -225 50 H V L TNN
-F2 "3000_Society_Badge:LED_D5.0mm-4_RGB_Wide_Pins" 50 -300 50 H I L TNN
+F2 "3000_Society_Badge:LED_D5.0mm-4_RGB_Neo" 50 -300 50 H I L TNN
 F3 "" 100 -375 50 H I L TNN
 DRAW
 T 0 90 -165 30 0 0 0 RGB Normal 0 C C
@@ -52,7 +52,7 @@ ENDDEF
 DEF LED_NeoPixel_THT_8mm D 0 10 Y Y 1 F N
 F0 "D" 200 225 50 H V R BNN
 F1 "LED_NeoPixel_THT_8mm" 50 -225 50 H V L TNN
-F2 "3000_Society_Badge:LED_D8.0mm-4_RGB" 50 -300 50 H I L TNN
+F2 "3000_Society_Badge:LED_D8.0mm-4_RGB_Neo" 50 -300 50 H I L TNN
 F3 "" 100 -375 50 H I L TNN
 DRAW
 T 0 90 -165 30 0 0 0 RGB Normal 0 C C
