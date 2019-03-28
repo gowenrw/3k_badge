@@ -42,7 +42,7 @@ U 1 1 5C994F3E
 P 5200 4450
 F 0 "D21" H 5544 4587 50  0000 L CNB
 F 1 "LED_NeoPixel_THT_5mm" H 5544 4496 50  0000 L CNN
-F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB_Wide_Pins" H 5544 4405 50  0000 L CIN
+F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB" H 5544 4405 50  0000 L CIN
 F 3 "https://www.adafruit.com/product/1938" H 5544 4314 50  0000 L CNN
 	1    5200 4450
 	1    0    0    -1  
@@ -53,7 +53,7 @@ U 1 1 5C99581E
 P 5200 5450
 F 0 "D22" H 5544 5587 50  0000 L CNB
 F 1 "LED_NeoPixel_THT_5mm" H 5544 5496 50  0000 L CNN
-F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB_Wide_Pins" H 5544 5405 50  0000 L CIN
+F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB" H 5544 5405 50  0000 L CIN
 F 3 "https://www.adafruit.com/product/1938" H 5544 5314 50  0000 L CNN
 	1    5200 5450
 	1    0    0    -1  
@@ -64,7 +64,7 @@ U 1 1 5C995E18
 P 3450 6250
 F 0 "D41" H 3794 6387 50  0000 L CNB
 F 1 "LED_NeoPixel_THT_5mm" H 3794 6296 50  0000 L CNN
-F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB_Wide_Pins" H 3794 6205 50  0000 L CIN
+F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB" H 3794 6205 50  0000 L CIN
 F 3 "https://www.adafruit.com/product/1938" H 3794 6114 50  0000 L CNN
 	1    3450 6250
 	1    0    0    -1  
@@ -75,7 +75,7 @@ U 1 1 5C996167
 P 3450 7200
 F 0 "D42" H 3794 7337 50  0000 L CNB
 F 1 "LED_NeoPixel_THT_5mm" H 3794 7246 50  0000 L CNN
-F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB_Wide_Pins" H 3794 7155 50  0000 L CIN
+F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB" H 3794 7155 50  0000 L CIN
 F 3 "https://www.adafruit.com/product/1938" H 3794 7064 50  0000 L CNN
 	1    3450 7200
 	1    0    0    -1  
@@ -301,7 +301,7 @@ U 1 1 5CB7E756
 P 8150 3150
 F 0 "D10" H 8494 3287 50  0000 L CNB
 F 1 "LED_NeoPixel_THT_5mm" H 8494 3196 50  0000 L CNN
-F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB_Wide_Pins" H 8494 3105 50  0000 L CIN
+F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB" H 8494 3105 50  0000 L CIN
 F 3 "https://www.adafruit.com/product/1938" H 8494 3014 50  0000 L CNN
 	1    8150 3150
 	1    0    0    -1  
@@ -312,7 +312,7 @@ U 1 1 5CB7E760
 P 8150 4050
 F 0 "D11" H 8494 4187 50  0000 L CNB
 F 1 "LED_NeoPixel_THT_5mm" H 8494 4096 50  0000 L CNN
-F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB_Wide_Pins" H 8494 4005 50  0000 L CIN
+F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB" H 8494 4005 50  0000 L CIN
 F 3 "https://www.adafruit.com/product/1938" H 8494 3914 50  0000 L CNN
 	1    8150 4050
 	1    0    0    -1  
@@ -502,7 +502,7 @@ U 1 1 5CEDEB4C
 P 8150 5300
 F 0 "D12" H 8494 5437 50  0000 L CNB
 F 1 "LED_NeoPixel_THT_5mm" H 8494 5346 50  0000 L CNN
-F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB_Wide_Pins" H 8494 5255 50  0000 L CIN
+F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB" H 8494 5255 50  0000 L CIN
 F 3 "https://www.adafruit.com/product/1938" H 8494 5164 50  0000 L CNN
 	1    8150 5300
 	1    0    0    -1  
@@ -513,7 +513,7 @@ U 1 1 5CEE4F34
 P 8150 6200
 F 0 "D13" H 8494 6337 50  0000 L CNB
 F 1 "LED_NeoPixel_THT_5mm" H 8494 6246 50  0000 L CNN
-F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB_Wide_Pins" H 8494 6155 50  0000 L CIN
+F 2 "3000_Society_Badge:LED_D5.0mm-4_RGB" H 8494 6155 50  0000 L CIN
 F 3 "https://www.adafruit.com/product/1938" H 8494 6064 50  0000 L CNN
 	1    8150 6200
 	1    0    0    -1  
