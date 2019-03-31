@@ -6,8 +6,8 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "3000 Society Badge Schematic"
-Date "2019-03-25"
-Rev "1"
+Date "2019-03-31"
+Rev "2"
 Comp "Created by @alt_bier a.k.a. Richard Gowen"
 Comment1 "https://github.com/gowenrw/3k_badge"
 Comment2 ""
@@ -81,10 +81,10 @@ F 3 "https://www.adafruit.com/product/1938" H 3794 7064 50  0000 L CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 3000_Society_Badge:CP1 C03
+L 3000_Society_Badge:CP1 C3
 U 1 1 5C9C271F
 P 2250 2500
-F 0 "C03" V 2592 2500 50  0000 C CNB
+F 0 "C3" V 2592 2500 50  0000 C CNB
 F 1 "CP 100uF" V 2501 2500 50  0000 C CNN
 F 2 "3000_Society_Badge:CP_Radial_D6.3mm_P2.50mm" V 2410 2500 50  0000 C CIN
 F 3 "~" H 2250 2500 50  0001 C CNN
@@ -141,10 +141,10 @@ Wire Wire Line
 	2100 2500 2000 2500
 Connection ~ 2000 2500
 $Comp
-L 3000_Society_Badge:R R04
+L 3000_Society_Badge:R R4
 U 1 1 5CA32A8C
 P 1700 3850
-F 0 "R04" H 1770 3941 50  0000 L CNB
+F 0 "R4" H 1770 3941 50  0000 L CNB
 F 1 "R 470ohm" H 1770 3850 50  0000 L CNN
 F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 1770 3759 50  0000 L CIN
 F 3 "~" H 1700 3850 50  0001 C CNN
@@ -159,10 +159,10 @@ Connection ~ 2000 4050
 Wire Wire Line
 	2000 4050 5200 4050
 $Comp
-L 3000_Society_Badge:CP1 C04
+L 3000_Society_Badge:CP1 C4
 U 1 1 5CA3FE5B
 P 2250 4450
-F 0 "C04" V 2592 4450 50  0000 C CNB
+F 0 "C4" V 2592 4450 50  0000 C CNB
 F 1 "CP 100uF" V 2501 4450 50  0000 C CNN
 F 2 "3000_Society_Badge:CP_Radial_D6.3mm_P2.50mm" V 2410 4450 50  0000 C CIN
 F 3 "~" H 2250 4450 50  0001 C CNN
@@ -180,10 +180,10 @@ Connection ~ 2000 4450
 Wire Wire Line
 	2000 4450 2000 4950
 $Comp
-L 3000_Society_Badge:R R05
+L 3000_Society_Badge:R R5
 U 1 1 5CA46FE5
 P 1700 5500
-F 0 "R05" H 1770 5591 50  0000 L CNB
+F 0 "R5" H 1770 5591 50  0000 L CNB
 F 1 "R 470ohm" H 1770 5500 50  0000 L CNN
 F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 1770 5409 50  0000 L CIN
 F 3 "~" H 1700 5500 50  0001 C CNN
@@ -202,10 +202,10 @@ Connection ~ 2000 5850
 Wire Wire Line
 	2000 5850 3450 5850
 $Comp
-L 3000_Society_Badge:CP1 C05
+L 3000_Society_Badge:CP1 C5
 U 1 1 5CA4D7DA
 P 2250 6250
-F 0 "C05" V 2592 6250 50  0000 C CNB
+F 0 "C5" V 2592 6250 50  0000 C CNB
 F 1 "CP 100uF" V 2501 6250 50  0000 C CNN
 F 2 "3000_Society_Badge:CP_Radial_D6.3mm_P2.50mm" V 2410 6250 50  0000 C CIN
 F 3 "~" H 2250 6250 50  0001 C CNN
@@ -351,10 +351,10 @@ Wire Wire Line
 Wire Wire Line
 	7450 3550 7450 4450
 $Comp
-L 3000_Society_Badge:CP1 C01
+L 3000_Society_Badge:CP1 C1
 U 1 1 5CBC5B6A
 P 6850 3200
-F 0 "C01" V 7192 3200 50  0000 C CNB
+F 0 "C1" V 7192 3200 50  0000 C CNB
 F 1 "CP 100uF" V 7101 3200 50  0000 C CNN
 F 2 "3000_Society_Badge:CP_Radial_D6.3mm_P2.50mm" V 7010 3200 50  0000 C CIN
 F 3 "~" H 6850 3200 50  0001 C CNN
@@ -364,10 +364,10 @@ $EndComp
 Wire Wire Line
 	1350 1100 1350 1500
 $Comp
-L 3000_Society_Badge:R R01
+L 3000_Society_Badge:R R1
 U 1 1 5CBCEB3A
 P 6200 2000
-F 0 "R01" H 6270 2091 50  0000 L CNB
+F 0 "R1" H 6270 2091 50  0000 L CNB
 F 1 "R 470ohm" H 6270 2000 50  0000 L CNN
 F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 6270 1909 50  0000 L CIN
 F 3 "~" H 6200 2000 50  0001 C CNN
@@ -396,10 +396,10 @@ Connection ~ 1350 1500
 Wire Wire Line
 	1350 1500 1350 1700
 $Comp
-L 3000_Society_Badge:R R03
+L 3000_Society_Badge:R R3
 U 1 1 5CC895C0
 P 1700 1850
-F 0 "R03" H 1770 1941 50  0000 L CNB
+F 0 "R3" H 1770 1941 50  0000 L CNB
 F 1 "R 470ohm" H 1770 1850 50  0000 L CNN
 F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 1770 1759 50  0000 L CIN
 F 3 "~" H 1700 1850 50  0001 C CNN
@@ -535,10 +535,10 @@ Wire Wire Line
 Wire Wire Line
 	8150 4950 8150 5000
 $Comp
-L 3000_Society_Badge:R R02
+L 3000_Society_Badge:R R2
 U 1 1 5CEF6F33
 P 6150 4800
-F 0 "R02" H 6220 4891 50  0000 L CNB
+F 0 "R2" H 6220 4891 50  0000 L CNB
 F 1 "R 470ohm" H 6220 4800 50  0000 L CNN
 F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 6220 4709 50  0000 L CIN
 F 3 "~" H 6150 4800 50  0001 C CNN
@@ -566,10 +566,10 @@ Connection ~ 6550 4950
 Wire Wire Line
 	6550 4950 8150 4950
 $Comp
-L 3000_Society_Badge:CP1 C02
+L 3000_Society_Badge:CP1 C2
 U 1 1 5CF53251
 P 6900 5350
-F 0 "C02" V 7242 5350 50  0000 C CNB
+F 0 "C2" V 7242 5350 50  0000 C CNB
 F 1 "CP 100uF" V 7151 5350 50  0000 C CNN
 F 2 "3000_Society_Badge:CP_Radial_D6.3mm_P2.50mm" V 7060 5350 50  0000 C CIN
 F 3 "~" H 6900 5350 50  0001 C CNN
@@ -612,4 +612,21 @@ Wire Wire Line
 	7700 5800 7700 6200
 Wire Wire Line
 	7700 6200 7850 6200
+$Comp
+L 3000_Society_Badge:TouchPad TP1
+U 1 1 5CA1D53C
+P 8300 950
+F 0 "TP1" H 8560 1089 50  0000 L CNN
+F 1 "TouchPad" H 8560 998 50  0000 L CNN
+F 2 "3000_Society_Badge:Tyrell_Touch_Pad" H 8560 907 50  0000 L CNN
+F 3 "~" H 8500 950 50  0001 C CNN
+	1    8300 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8300 950  4650 950 
+Wire Wire Line
+	4650 950  4650 1300
+Wire Wire Line
+	4650 1300 4200 1300
 $EndSCHEMATC

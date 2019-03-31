@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CP1
+D Polarized capacitor, US symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
 $CMP LED_NeoPixel_THT_5mm
 D RGB LED with integrated controller, 5mm LED package
 K RGB LED NeoPixel addressable
@@ -12,22 +18,22 @@ K RGB LED NeoPixel addressable
 F https://www.adafruit.com/product/1734
 $ENDCMP
 #
-$CMP Trinket_M0
-D Adafruit Trinket_M0, ATSAMD21E18 32-bit 48MHz, 256KB Flash, 32KB RAM
-K AVR 32-bit Cortex M0 Microcontroller Trinket
-F https://www.adafruit.com/product/3500
-$ENDCMP
-#
-$CMP CP1
-D Polarized capacitor, US symbol
-K cap capacitor
-F ~
-$ENDCMP
-#
 $CMP R
 D Resistor
 K R res resistor
 F ~
+$ENDCMP
+#
+$CMP TouchPad
+D Touch Pad
+K touch pad tp
+F ~
+$ENDCMP
+#
+$CMP Trinket_M0
+D Adafruit Trinket_M0, ATSAMD21E18 32-bit 48MHz, 256KB Flash, 32KB RAM
+K AVR 32-bit Cortex M0 Microcontroller Trinket
+F https://www.adafruit.com/product/3500
 $ENDCMP
 #
 #End Doc Library
