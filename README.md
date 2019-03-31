@@ -31,6 +31,6 @@ The PCB CAD design for the badge can be found here:
 ![PCB](docs/3000_Society_Badge_PCB_v1.JPG)
 
 Here are some 3D renders of the badge:
-![PCB_Front](graphics/3000_Society_Badge_K5_PCB_Front_Sm.jpg)
-![PCB_Front_Componetns](graphics/3000_Society_Badge_K5_PCB_Front_Components_Sm.jpg)
-![PCB_Back](graphics/3000_Society_Badge_K5_PCB_Back_Sm.jpg)
+![PCB_Front](docs/3000_Society_Badge_K5_PCB_Front_Sm.jpg)
+![PCB_Front_Componetns](docs/3000_Society_Badge_K5_PCB_Front_Components_Sm.jpg)
+![PCB_Back](docs/3000_Society_Badge_K5_PCB_Back_Sm.jpg)
