@@ -24,13 +24,13 @@ The badge PCB is a two layer board with through holes for THT components which i
 The PCB also has a capacitive touch area that uses the touch capabilities of the Trinket.
 
 The electronic schematic for the badge can be found here: [3000_Society_Badge_Schematic_v1.pdf](docs/3000_Society_Badge_Schematic_v1.pdf)
-[Schematic](docs/3000_Society_Badge_Schematic_v1.JPG)
+![Schematic](docs/3000_Society_Badge_Schematic_v1.JPG)
 
 The PCB CAD design for the badge can be found here:
 [3000_Society_Badge_PCB_v1.pdf](docs/3000_Society_Badge_PCB_v1.pdf)
-[PCB](docs/3000_Society_Badge_PCB_v1.JPG)
+![PCB](docs/3000_Society_Badge_PCB_v1.JPG)
 
 Here are some 3D renders of the badge:
-[PCB_Front](graphics/3000_Society_Badge_K5_PCB_Front_Sm.jpg)
-[PCB_Front_Componetns](graphics/3000_Society_Badge_K5_PCB_Front_Components_Sm.jpg)
-[PCB_Back](graphics/3000_Society_Badge_K5_PCB_Back_Sm.jpg)
+![PCB_Front](graphics/3000_Society_Badge_K5_PCB_Front_Sm.jpg)
+![PCB_Front_Componetns](graphics/3000_Society_Badge_K5_PCB_Front_Components_Sm.jpg)
+![PCB_Back](graphics/3000_Society_Badge_K5_PCB_Back_Sm.jpg)
