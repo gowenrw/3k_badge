@@ -18,7 +18,7 @@ This is the file structure of this repository
 
 The 3000 Society Badge is being created to commemorate the 10th anniversary of this awesome gaming group.
 
-The theme for 3000 Society 2019 is Blade Runner vs. Godzilla which has been used as the concept for the badge.
+The theme for 3000 Society 2019 is Godzilla vs. Blade Runner which has been used as the concept for the badge.
 
 The badge PCB is a two layer board with through holes for THT components which include an Adafruit Trinket M0, ten Neopixel addressable LEDs, and all the resistors and capacitors to support them.
 The PCB also has a capacitive touch area that uses the touch capabilities of the Trinket.
