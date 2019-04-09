@@ -146,7 +146,7 @@ U 1 1 5CA32A8C
 P 1700 3850
 F 0 "R4" H 1770 3941 50  0000 L CNB
 F 1 "R 470ohm" H 1770 3850 50  0000 L CNN
-F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 1770 3759 50  0000 L CIN
+F 2 "3000_Society_Badge:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 1770 3759 50  0000 L CIN
 F 3 "~" H 1700 3850 50  0001 C CNN
 	1    1700 3850
 	1    0    0    -1  
@@ -185,7 +185,7 @@ U 1 1 5CA46FE5
 P 1700 5500
 F 0 "R5" H 1770 5591 50  0000 L CNB
 F 1 "R 470ohm" H 1770 5500 50  0000 L CNN
-F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 1770 5409 50  0000 L CIN
+F 2 "3000_Society_Badge:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 1770 5409 50  0000 L CIN
 F 3 "~" H 1700 5500 50  0001 C CNN
 	1    1700 5500
 	1    0    0    -1  
@@ -273,7 +273,7 @@ U 1 1 5CA6CF67
 P 2800 2650
 F 0 "R40" H 2870 2741 50  0000 L CNB
 F 1 "R 470ohm" H 2870 2650 50  0000 L CNN
-F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 2870 2559 50  0000 L CIN
+F 2 "3000_Society_Badge:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 2870 2559 50  0000 L CIN
 F 3 "~" H 2800 2650 50  0001 C CNN
 	1    2800 2650
 	1    0    0    -1  
@@ -284,7 +284,7 @@ U 1 1 5CA6E66F
 P 4800 1350
 F 0 "R20" H 4870 1441 50  0000 L CNB
 F 1 "R 470ohm" H 4870 1350 50  0000 L CNN
-F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 4870 1259 50  0000 L CIN
+F 2 "3000_Society_Badge:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 4870 1259 50  0000 L CIN
 F 3 "~" H 4800 1350 50  0001 C CNN
 	1    4800 1350
 	1    0    0    -1  
@@ -369,7 +369,7 @@ U 1 1 5CBCEB3A
 P 6200 2000
 F 0 "R1" H 6270 2091 50  0000 L CNB
 F 1 "R 470ohm" H 6270 2000 50  0000 L CNN
-F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 6270 1909 50  0000 L CIN
+F 2 "3000_Society_Badge:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 6270 1909 50  0000 L CIN
 F 3 "~" H 6200 2000 50  0001 C CNN
 	1    6200 2000
 	1    0    0    -1  
@@ -383,7 +383,7 @@ U 1 1 5CC25A8D
 P 7650 1700
 F 0 "R10" H 7720 1791 50  0000 L CNB
 F 1 "R 470ohm" H 7720 1700 50  0000 L CNN
-F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 7720 1609 50  0000 L CIN
+F 2 "3000_Society_Badge:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 7720 1609 50  0000 L CIN
 F 3 "~" H 7650 1700 50  0001 C CNN
 	1    7650 1700
 	1    0    0    -1  
@@ -400,8 +400,8 @@ L 3000_Society_Badge:R R3
 U 1 1 5CC895C0
 P 1700 1850
 F 0 "R3" H 1770 1941 50  0000 L CNB
-F 1 "R 470ohm" H 1770 1850 50  0000 L CNN
-F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 1770 1759 50  0000 L CIN
+F 1 "R 100ohm" H 1770 1850 50  0000 L CNN
+F 2 "3000_Society_Badge:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 1770 1759 50  0000 L CIN
 F 3 "~" H 1700 1850 50  0001 C CNN
 	1    1700 1850
 	1    0    0    -1  
@@ -540,7 +540,7 @@ U 1 1 5CEF6F33
 P 6150 4800
 F 0 "R2" H 6220 4891 50  0000 L CNB
 F 1 "R 470ohm" H 6220 4800 50  0000 L CNN
-F 2 "3000_Society_Badge:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 6220 4709 50  0000 L CIN
+F 2 "3000_Society_Badge:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 6220 4709 50  0000 L CIN
 F 3 "~" H 6150 4800 50  0001 C CNN
 	1    6150 4800
 	1    0    0    -1  
@@ -629,4 +629,8 @@ Wire Wire Line
 	4650 950  4650 1300
 Wire Wire Line
 	4650 1300 4200 1300
+Text Notes 550  800  0    50   ~ 0
+Note: R3 needs lower resistance (100 ohm)
+Text Notes 550  900  0    50   ~ 0
+due to 8mm LED higher current requirements
 $EndSCHEMATC
