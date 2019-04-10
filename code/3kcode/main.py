@@ -183,10 +183,10 @@ while True:
 
     if (mode == 0):
         # Bad boys, bad boys, whatchya gonna do?
-        neopixelsd1[0] = siren(i, 0)
-        neopixelsd1[1] = flashrw(i, 0)
-        neopixelsd1[2] = flashby(i, 128)
-        neopixelsd1[3] = siren(i, 64)
+        neopixelsd1[0] = siren(i, 16)
+        neopixelsd1[1] = siren(i, 8)
+        neopixelsd1[2] = siren(i, 0)
+        neopixelsd1[3] = siren(i, 0)
         neopixelsd1.show()
         neopixelsd2[0] = siren(i, 0)
         neopixelsd2[1] = flashrw(i, 0)
@@ -200,17 +200,17 @@ while True:
     elif (mode == 1):
         # Candy is dandy but liquor is quicker!
         neopixelsd1[0] = wheeln(i, 0)
-        neopixelsd1[1] = wheeln(i, 32)
-        neopixelsd1[2] = wheeln(i, 64)
-        neopixelsd1[3] = wheeln(i, 96)
+        neopixelsd1[1] = wheeln(i, 16)
+        neopixelsd1[2] = wheeln(i, 48)
+        neopixelsd1[3] = wheeln(i, 32)
         neopixelsd1.show()
-        neopixelsd2[0] = wheeln(i, 0)
-        neopixelsd2[1] = wheeln(i, 32)
-        neopixelsd2[2] = wheeln(i, 64)
+        neopixelsd2[0] = wheeln(i, 80)
+        neopixelsd2[1] = wheeln(i, 64)
+        neopixelsd2[2] = wheeln(i, 96)
         neopixelsd2.show()
         neopixelsd4[0] = wheeln(i, 128)
-        neopixelsd4[1] = wheeln(i, 160)
-        neopixelsd4[2] = wheeln(i, 192)
+        neopixelsd4[1] = wheeln(i, 112)
+        neopixelsd4[2] = wheeln(i, 144)
         neopixelsd4.show()
         dot[0] = wheeld(i)
     else:
