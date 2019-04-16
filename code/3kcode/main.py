@@ -17,8 +17,8 @@ dot = dotstar.DotStar(board.APA102_SCK, board.APA102_MOSI, 1, brightness=0.4)
 led = DigitalInOut(board.D13)
 led.direction = Direction.OUTPUT
 
-# Capacitive touch on D3
-touch = touchio.TouchIn(board.D3)
+# Capacitive touch on A3 (Using Analog for raw_value)
+touch = touchio.TouchIn(board.A3)
 
 # NeoPixel strip connected on D4
 NUMPIXELSD4 = 3
@@ -230,11 +230,16 @@ while True:
         neopixelsd4.show()
         dot[0] = (0, 0, 0)
 
-    # use D3 as capacitive touch to turn on internal LED and change mode
-    if touch.value:
-        print("D3 touched! Changing mode")
+    # use A3 as capacitive touch to turn on internal LED and change mode
+    # note: must use analog raw_value to prevent false positive from back of board touches
+    if touch.raw_value > 3500:
+        print("A3 touched! Changing mode. Touch Value: ", touch.raw_value)
         touched = 1
-    led.value = touch.value
+        led.value = touch.value
+    else:
+        led.value = 0
+    #print(touch.raw_value)
+
 
     if (i == 255) and (touched == 1):
         mode = (mode+1)
