@@ -9,6 +9,7 @@ from adafruit_hid.keycode import Keycode
 import adafruit_dotstar as dotstar
 import time
 import neopixel
+import random
 
 # One pixel connected internally!
 dot = dotstar.DotStar(board.APA102_SCK, board.APA102_MOSI, 1, brightness=0.4)
@@ -172,6 +173,25 @@ def flashrb(pos, sft, nd):
     else:
         return (0, 0, 0)
 
+# Function to flash random colors
+def randcolor():
+    randgr = randrd = randbl = 0
+    # determine if all colors off
+    if (random.randint(0,29) == 1):
+        # if on then determine if each color is off and return an intensity value if on
+        if (random.randint(0,1) == 1):
+            randgr = random.randint(1,255)
+        if (random.randint(0,1) == 1):
+            randrd = random.randint(1,255)
+        if (random.randint(0,1) == 1):
+            randbl = random.randint(1,255)
+    return (randgr, randrd, randbl)
+
+# Function to turn all LEDs off in a neopixel string
+def alloff(pixel):
+    for j in range(len(pixel)):
+        pixel[j] = (0, 0, 0)
+
 ######################### MAIN LOOP ##############################
 mode = 0
 touched = 0
@@ -187,15 +207,12 @@ while True:
         neopixelsd1[1] = siren(i, 8)
         neopixelsd1[2] = siren(i, 0)
         neopixelsd1[3] = siren(i, 0)
-        neopixelsd1.show()
         neopixelsd2[0] = siren(i, 0)
         neopixelsd2[1] = flashrw(i, 0)
         neopixelsd2[2] = flashby(i, 128)
-        neopixelsd2.show()
         neopixelsd4[0] = siren(i, 64)
         neopixelsd4[1] = flashby(i, 0)
         neopixelsd4[2] = flashrw(i, 128)
-        neopixelsd4.show()
         dot[0] = flashrb(i, 128, 1)
     elif (mode == 1):
         # Candy is dandy but liquor is quicker!
@@ -203,32 +220,37 @@ while True:
         neopixelsd1[1] = wheeln(i, 16)
         neopixelsd1[2] = wheeln(i, 48)
         neopixelsd1[3] = wheeln(i, 32)
-        neopixelsd1.show()
         neopixelsd2[0] = wheeln(i, 80)
         neopixelsd2[1] = wheeln(i, 64)
         neopixelsd2[2] = wheeln(i, 96)
-        neopixelsd2.show()
         neopixelsd4[0] = wheeln(i, 128)
         neopixelsd4[1] = wheeln(i, 112)
         neopixelsd4[2] = wheeln(i, 144)
-        neopixelsd4.show()
         dot[0] = wheeld(i)
+    elif (mode == 2):
+        # My God, it's full of stars!
+        neopixelsd1[0] = randcolor()
+        neopixelsd1[1] = randcolor()
+        neopixelsd1[2] = randcolor()
+        neopixelsd1[3] = randcolor()
+        neopixelsd2[0] = randcolor()
+        neopixelsd2[1] = randcolor()
+        neopixelsd2[2] = randcolor()
+        neopixelsd4[0] = randcolor()
+        neopixelsd4[1] = randcolor()
+        neopixelsd4[2] = randcolor()
+        dot[0] = randcolor()
     else:
         # All Off
-        neopixelsd1[0] = (0, 0, 0)
-        neopixelsd1[1] = (0, 0, 0)
-        neopixelsd1[2] = (0, 0, 0)
-        neopixelsd1[3] = (0, 0, 0)
-        neopixelsd1.show()
-        neopixelsd2[0] = (0, 0, 0)
-        neopixelsd2[1] = (0, 0, 0)
-        neopixelsd2[2] = (0, 0, 0)
-        neopixelsd2.show()
-        neopixelsd4[0] = (0, 0, 0)
-        neopixelsd4[1] = (0, 0, 0)
-        neopixelsd4[2] = (0, 0, 0)
-        neopixelsd4.show()
+        alloff(neopixelsd1)
+        alloff(neopixelsd2)
+        alloff(neopixelsd4)
         dot[0] = (0, 0, 0)
+
+    # Show the neopixel values defined above
+    neopixelsd1.show()
+    neopixelsd2.show()
+    neopixelsd4.show()
 
     # use A3 as capacitive touch to turn on internal LED and change mode
     # note: must use analog raw_value to prevent false positive from back of board touches
@@ -240,15 +262,15 @@ while True:
         led.value = 0
     #print(touch.raw_value)
 
+    i = (i+1) % 256
+    # print (i)
 
-    if (i == 255) and (touched == 1):
+    if ((i == 63) | (i == 127) | (i == 191) | (i >= 255)) and (touched == 1):
         mode = (mode+1)
         touched = 0
-        if (mode > 2):
+        i = 0
+        if (mode > 3):
             mode = 0
-
-    # print (i)
-    i = (i+1) % 256
 
     # time.sleep(0.001) # make bigger to slow down
     # print("Loop Complete")
