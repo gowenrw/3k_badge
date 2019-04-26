@@ -8,7 +8,7 @@ Here is a picture of the badge fully assembled:
 ![3kbadge](3kbadge.JPG)
 
 Since a picture alone doesn't capture the scale or the blinkey lights I put together a quick video on the 3000 Society Badge 2019 for your enjoyment:
-https://youtu.be/W0jq3bSK5AE
+[3000_Society_Badge_2019](https://youtu.be/W0jq3bSK5AE)
 
 The badge PCB is a two layer board with through holes for THT components which include an Adafruit Trinket M0, ten Neopixel addressable LEDs (2x8mm,8x5mm), and all the resistors and capacitors to support them.
 It is powered by a credit card sized USB battery bank that will be attached to the back via Velcro and have its cable feed through a hole designed into the PCB for this purpose.
