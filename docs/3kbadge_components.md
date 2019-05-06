@@ -22,5 +22,9 @@ This is a list of the components used on the badge and where you can get them (i
 * 1x 100ohm 1/4w Resistor
     * [Sparkfun Product Page](https://www.sparkfun.com/products/14493)
     * This resistor is needed for the power line for the 8mm Neopixels.  Since they draw slightly more power than the 5mm using a 470ohm resistor was causing current drops when both 8mm LEDs were fully on.  If this does not concern you then a 470ohm resistor or some value in between can work in its place.
+* 1x 2500mAh USB Power Bank - Slim Credit Card Sized
+    * The badge was designed to hold a slim credit card sized USB power bank on the back that would allow the Trinket M0 to be powered via its USB micro port.
+    * The model that I provided with the 3kbadges was made by [Attom Tech](https://www.attomtech.com/) and can be purchased on [their site](https://www.attomtech.com/product/attom-tech-2500mah-ultra-slim-mini-power-bank/) or on [Amazon](https://www.amazon.com/Attom-Tech-External-Emergency-Charging/dp/B076HJTNYJ) and elsewhere.
+    * There are many manufacturers of these slim credit card sized USB power banks and any of them should work to power this badge as long as the physical dimensions and attributes are similar to the above. The built in charging cable and its length are of particular importance to fit the badge.
 
 ![3kbadge_components](3kbadge_components.JPG)
