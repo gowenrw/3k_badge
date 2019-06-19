@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 3000_Society_Badge)(type Legacy)(uri ${KIPRJMOD}/lib_sch/3000_Society_Badge.lib)(options "")(descr ""))
+)
