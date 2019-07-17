@@ -1,6 +1,6 @@
 # Godzilla vs. Blade Runner Badge Components
 
-[HOME](/) [DETAILS](3kbadge_details.md) [PARTS](3kbadge_components.md) [ASSEMBLY](3kbadge_assembly.md) [CODE](3kbadge_code.md)
+[HOME](/) - [DETAILS](3kbadge_details.md) - [PARTS](3kbadge_components.md) - [ASSEMBLY](3kbadge_assembly.md) - [CODE](3kbadge_code.md)
 
 If you received this badge at the 3000 Society conference then you should have all the components listed below.
 If you got the badge kit at Defcon 27 then you should have everything except the battery.
