@@ -6,7 +6,14 @@ The 3000 Society Badge was created by [@alt_bier](https://twitter.com/alt_bier) 
 The theme for 3000 Society 2019 conference was Godzilla vs. Blade Runner which has been used as the concept for the badge.
 
 This badge has been reworked by team **Altbier and Chill** for the [Defcon 27](https://www.defcon.org/html/defcon-27/dc-27-index.html) conference in dedication to the DFW area Hackers:
-[DC214](http://dc214.org/) [DHA](https://www.dallashackers.com/) [TheLab.ms](https://thelab.ms/) [HackFtW](https://www.meetup.com/HackFtW/) and more...
+
+* [DC214](http://dc214.org/)
+* [DHA](https://www.dallashackers.com/)
+* [TheLab.ms](https://thelab.ms/)
+* [HackFtW](https://www.meetup.com/HackFtW/)
+* [BSides DFW](http://www.bsidesdfw.com/)
+* and more...
+
 A portion of the proceeds will be donated to [BSides DFW](http://www.bsidesdfw.com/) to help this awesome conference.
 
 Here is a picture of the badge fully assembled (3000 Society Conference Version):

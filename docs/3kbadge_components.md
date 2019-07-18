@@ -3,7 +3,9 @@
 [HOME](/) - [DETAILS](3kbadge_details.md) - [PARTS](3kbadge_components.md) - [ASSEMBLY](3kbadge_assembly.md) - [CODE](3kbadge_code.md)
 
 If you received this badge at the 3000 Society conference then you should have all the components listed below.
+
 If you got the badge kit at Defcon 27 then you should have everything except the battery.
+
 If you only have the PCB then this is the list of components that you will need to procure to make the badge.
 
 Complete list of components used on the badge (with links):
@@ -36,4 +38,4 @@ Complete list of components used on the badge (with links):
     * The model that I provided with the 3kbadges was made by [Attom Tech](https://www.attomtech.com/) and can be purchased on [their site](https://www.attomtech.com/product/attom-tech-2500mah-ultra-slim-mini-power-bank/) or on [Amazon](https://www.amazon.com/Attom-Tech-External-Emergency-Charging/dp/B076HJTNYJ) and elsewhere.
     * There are many manufacturers of these slim credit card sized USB power banks and any of them should work to power this badge as long as the physical dimensions and attributes are similar to the above. The built in charging cable and its length are of particular importance to fit the badge.
 
-![3kbadge_components](3kbadge_components.JPG)
+![3kbadge_components](DC27_3k_badge_components.JPG)

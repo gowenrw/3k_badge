@@ -5,6 +5,7 @@
 This is where you will find detailed step by step instructions on how to assemble the badge.
 
 Here are the steps (pictures and video to be added soon)
+
 * Solder the headers pins to the Trinket m0
   * The Trinket comes with a single breakable 1x16pin header strip.  Break off two 5 pin sections to use.
     * Save the left over 6 pin male header to use later

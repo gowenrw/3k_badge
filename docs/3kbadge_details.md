@@ -11,14 +11,14 @@ It also comes with a custom printed lanyard that either has the 3000 Society log
 
 The PCB CAD design for the 3000 Society badge can be found here:
 [3000_Society_Badge_PCB_v3.pdf](3000_Society_Badge_PCB_v3.pdf)
-![PCB](3000_Society_Badge_PCB_v3.JPG)
+[![PCB](3000_Society_Badge_PCB_v3.JPG)](3000_Society_Badge_PCB_v3.pdf)
 
 The PCB CAD design for the Defcon 27 badge can be found here:
-[3000_Society_Badge_PCB_v3.pdf](DC27_3k_Badge_PCB_v1.pdf)
-![PCB](DC27_3k_Badge_PCB_v1.JPG)
+[DC27_3k_Badge_PCB_v1.pdf](DC27_3k_Badge_PCB_v1.pdf)
+[![PCB](DC27_3k_Badge_PCB_v1.JPG)](DC27_3k_Badge_PCB_v1.pdf)
 
 The electronic schematic for the badge can be found here (same schematic for both versions): [3000_Society_Badge_Schematic_v3.pdf](3000_Society_Badge_Schematic_v3.pdf)
-![Schematic](3000_Society_Badge_Schematic_v3.JPG)
+[![Schematic](3000_Society_Badge_Schematic_v3.JPG)](3000_Society_Badge_Schematic_v3.pdf)
 
 The complete components list is available here: [3kbage_components](3kbadge_components.md)
-![3kbadge_components](3kbadge_components.JPG)
+[![3kbadge_components](DC27_3k_badge_components.JPG)](3kbadge_components.md)
