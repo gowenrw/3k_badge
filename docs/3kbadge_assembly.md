@@ -8,12 +8,12 @@ This is where you will find detailed step by step instructions on how to assembl
 
 1. Solder the Trinket M0 header pins
   * The Trinket comes with a single breakable 1x16pin header strip.  Break off two 5 pin sections to use.
-  * ![Trinket_01](Trinket_01.JPG) .
+  * <img src="Trinket_01.JPG" alt="Trinket_01"> .
     * Save the left over 6 pin male header to use later
   * Place the two five pin header strips into the Trinket PCB inserting the short end into the through holes.
   * Solder these header pins on the top of the Trinket PCB
-  * ![Trinket_02](Trinket_02.JPG) .
-  * ![Trinket_03](Trinket_03.JPG) .
+  * <img src="Trinket_02.JPG" alt="Trinket_02"> .
+  * <img src="Trinket_03.JPG" alt="Trinket_03"> .
 
 
 2. Solder the resistors to the Badge
