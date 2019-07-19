@@ -8,8 +8,8 @@ This is where you will find detailed step by step instructions on how to assembl
 
 1. Solder the Trinket M0 header pins
   * The Trinket comes with a single breakable 1x16pin header strip.  Break off two 5 pin sections to use.
+  * ![Trinket_01](Trinket_01.JPG) .
     * Save the left over 6 pin male header to use later
-    * ![Trinket_01](Trinket_01.JPG) .
   * Place the two five pin header strips into the Trinket PCB inserting the short end into the through holes.
   * Solder these header pins on the top of the Trinket PCB
   * ![Trinket_02](Trinket_02.JPG) .
@@ -21,8 +21,7 @@ This is where you will find detailed step by step instructions on how to assembl
   * ![Resistors_01](Resistors_01.JPG) .
     * Bending the resistor legs slightly will hold them in place.
     * The direction the resistor is placed does not matter.
-    * ![Resistors_02](Resistors_02.JPG) .
-
+  * ![Resistors_02](Resistors_02.JPG) .
   * Be sure that the 100ohm resistor is in the R3 position mark on the back of the PCB.
   * Solder the resistors on the back of the PCB.
   * Cut off the resistor pins close to the back of the PCB (not too close or it will damage your solder joints)
@@ -36,7 +35,7 @@ This is where you will find detailed step by step instructions on how to assembl
     * The direction the capacitors are placed is IMPORTANT.  
       * The long leg is positive and the short leg where the 0 is printed on the cap is negative.  
       * The long positive legs should be nearer to the outside edge of the PCB.
-      * ![Capacitors_02](Capacitors_02.JPG) .
+  * ![Capacitors_02](Capacitors_02.JPG) .
   * Solder the capacitors on the back of the PCB.
   * Cut off the capacitor pins close to the back of the PCB (not too close or it will damage your solder joints)
   * ![Capacitors_03](Capacitors_03.JPG) .
@@ -46,9 +45,9 @@ This is where you will find detailed step by step instructions on how to assembl
   * Place the two 5 pin header strips male pins into the badge PCB through holes with the female headers on the front of the PCB.
     * Use the left over 6 pin male header from the Trinket to keep these headers at 90 degrees from the PCB.
       * The 6 pin male header is the perfect size to represent the trinket for spacing, just plug into the middle of each female header
-      * ![Headers_01](Headers_01.JPG) .
-    * Place the board down on the headers or use a bit of tape on the front to hold them in place.
-    * ![Headers_02](Headers_02.JPG) .
+  * ![Headers_01](Headers_01.JPG) .
+  * Place the board down on the headers or use a bit of tape on the front to hold them in place.
+  * ![Headers_02](Headers_02.JPG) .
   * Solder the headers on the back of the PCB.
   * ![Headers_03](Headers_03.JPG) .
 
@@ -58,13 +57,13 @@ This is where you will find detailed step by step instructions on how to assembl
   * ![LEDs_01](LEDs_01.JPG) .
     * With four legs they should stay in place by friction alone. However, you can bend the LED legs slightly if needed.
     * The direction the NeoPixel LEDs are placed is IMPORTANT.  
-      * On the 5mm LEDs the long leg should go in the through hole that is a rectangle instead of an oval.
-        * The long leg is on the side of the LED that has a flat notch.  The back of the PCB shows where this notch should be aligned.
-        * ![LEDs_04](LEDs_04.JPG) .
-      * On the 8mm LEDs the long leg should go in through hole that is the oval pad next to the rectangle one.
-        * On these bigger LEDs the long leg is pin 2 not pin 1 like the smaller LEDs
-        * The long leg is on the side of the LED that has a flat notch.  The back of the PCB shows where this notch should be aligned.
-        * ![LEDs_02](LEDs_02.JPG) .
+    * On the 5mm LEDs the long leg should go in the through hole that is a rectangle instead of an oval.
+      * The long leg is on the side of the LED that has a flat notch.  The back of the PCB shows where this notch should be aligned.
+  * ![LEDs_04](LEDs_04.JPG) .
+    * On the 8mm LEDs the long leg should go in through hole that is the oval pad next to the rectangle one.
+      * On these bigger LEDs the long leg is pin 2 not pin 1 like the smaller LEDs
+      * The long leg is on the side of the LED that has a flat notch.  The back of the PCB shows where this notch should be aligned.
+  * ![LEDs_02](LEDs_02.JPG) .
     * I would suggest placing and then soldering only a few LEDs at a time because they are very close together.
   * Solder the NeoPixel LEDs on the back of the PCB.
   * Cut off the LED pins close to the back of the PCB (not too close or it will damage your solder joints)
@@ -86,7 +85,7 @@ This is where you will find detailed step by step instructions on how to assembl
   * ![Battery_02](Battery_02.JPG) .
   * Connect the Battery cable to the Trinket
     * Do this before you attach the Battery to the badge to avoid having to make readjustments
-    * ![Battery_03](Battery_03.JPG) .    
+  * ![Battery_03](Battery_03.JPG) .    
   * Attach the Battery to the back of the badge by sticking the Velcro strips together
   * ![Battery_04](Battery_04.JPG) .
 
