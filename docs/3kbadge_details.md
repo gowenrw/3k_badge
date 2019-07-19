@@ -21,4 +21,4 @@ The electronic schematic for the badge can be found here (same schematic for bot
 [![Schematic](3000_Society_Badge_Schematic_v3.JPG)](3000_Society_Badge_Schematic_v3.pdf)
 
 The complete components list is available here: [3kbage_components](3kbadge_components.md)
-[![3kbadge_components](DC27_3k_badge_components.JPG)](3kbadge_components.md)
+[![3kbadge_components](DC27_3k_badge_components.JPG)](3kbadge_components.html)
