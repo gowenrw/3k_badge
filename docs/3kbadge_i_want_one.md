@@ -38,7 +38,7 @@ Here are the badge options that will be available at Defcon 27:
 
 <table>
 <tr>
-<th width="80%"><i>Rare<i> Badge Options For Collectors</th>
+<th width="80%"><i>Rare</i> Badge Options For Collectors</th>
 <th width="10%">Qty</th>
 <th width="10%">Price Each</th>
 </tr>
