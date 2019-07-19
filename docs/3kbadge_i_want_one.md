@@ -12,14 +12,14 @@ These badges will be available for purchase at the conference at a location yet 
 
 Here are the badge options that will be available at Defcon 27:
 
-| Standard Badge Options | Qty | Price Each |  
-| :--- | :---: | ---: |
+| Standard Badge Options | Qty      | Price Each |  
+| ---------------------- | :------: | ---: |
 | DC27 Godzilla vs. Blade Runner Badge PCB and Lanyard ONLY | 80 | **$20** |
 | DC27 Godzilla vs. Blade Runner Badge Kit with all components EXCEPT the Battery | 120 | **$60** |
 | DC27 Godzilla vs. Blade Runner Badge Fully Assembled w/ Lanyard & Battery | 20 | **$120** |
 
 | *Rare* Badge Options For Collectors | Qty | Price Each |  
-| :--- | :---: | ---: |
+| ---------------------- | :------: | ---: |
 | 3000 Society Godzilla vs. Blade Runner Badge PCB ONLY | 10 | **$40** |
 | DC27 Prototype Green PCB Godzilla vs. Blade Runner Badge Fully Assembled w/ Lanyard & Battery | 4 | **$140** |
 | 3000 Society Godzilla vs. Blade Runner Badge Fully Assembled w/ Lanyard & Battery | 1 | **$160** |
