@@ -1,6 +1,6 @@
 # Godzilla vs. Blade Runner Badge Details
 
-[HOME](/) - [DETAILS](3kbadge_details.md) - [PARTS](3kbadge_components.md) - [ASSEMBLY](3kbadge_assembly.md) - [CODE](3kbadge_code.md)
+[HOME](/) - [DETAILS](3kbadge_details.md) - [PARTS](3kbadge_components.md) - [ASSEMBLY](3kbadge_assembly.md) - [CODE](3kbadge_code.md) - [I_WANT_ONE!](3kbadge_i_want_one.md)
 
 The badge PCB is a two layer board with through holes for THT components which include an Adafruit Trinket M0, ten Neopixel addressable LEDs (2x8mm,8x5mm), and all the resistors and capacitors to support them.
 It is powered by a credit card sized USB battery bank that will be attached to the back via Velcro and have its cable feed through a hole designed into the PCB for this purpose.
