@@ -49,13 +49,13 @@ If you are going to install the badge code that has been provided here then you 
 
 ### Using the Firmware and Libraries provided by Adafruit CircuitPython
 
-If you are going to wrote your own badge code and use a different version of CircuitPython than what has been provided then you will need to download the Firmware and Libraries from Adafruit CircuitPython.
+If you are going to write your own badge code and use a different version of CircuitPython than what has been provided then you will need to download the Firmware and Libraries from Adafruit CircuitPython.
 
 Find the CircuitPython firmware release you wish to use from the [Adafruit GitHub CircuitPython releases repository](https://GitHub.com/adafruit/circuitpython/releases) or from [https://circuitpython.org/downloads](https://circuitpython.org/downloads)
 
 The proper firmware file will have a .uf2 extension and will contain trinket_m0 in the name.
 
-Find the CircuitPython libraries that match your firmware release from the [Adafruit GitHub CircuitPython_Bundle releases repository](https://GitHub.com/adafruit/Adafruit_CircuitPython_Bundle/releases) or from [https://circuitpython.org/libraries][https://circuitpython.org/libraries]
+Find the CircuitPython libraries that match your firmware release from the [Adafruit GitHub CircuitPython_Bundle releases repository](https://GitHub.com/adafruit/Adafruit_CircuitPython_Bundle/releases) or from [https://circuitpython.org/libraries](https://circuitpython.org/libraries)
 
 If you are just looking to update a specific library or driver file there is a good listing of those downloads on the [CircuitPython Libraries Page](https://circuitpython.readthedocs.io/projects/bundle/en/latest/drivers.html)
 
