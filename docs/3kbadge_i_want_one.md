@@ -12,11 +12,11 @@ These badges will be available for purchase at the conference at a location yet 
 
 Here are the badge options that will be available at Defcon 27:
 
-<table border=1>
+<table>
 <tr>
-<th width="60%"">Standard Badge Options</th>
-<th width="20%"">Qty</th>
-<th width="20%"">Price Each</th>
+<th width="60%">Standard Badge Options</th>
+<th width="20%">Qty</th>
+<th width="20%">Price Each</th>
 </tr>
 <tr>
 <td>DC27 Godzilla vs. Blade Runner Badge PCB and Lanyard ONLY</td>
@@ -35,11 +35,11 @@ Here are the badge options that will be available at Defcon 27:
 </tr>
 </table>
 
-<table border=1>
+<table>
 <tr>
-<th width="60%"">*Rare* Badge Options For Collectors</th>
-<th width="20%"">Qty</th>
-<th width="20%"">Price Each</th>
+<th width="60%">*Rare* Badge Options For Collectors</th>
+<th width="20%">Qty</th>
+<th width="20%">Price Each</th>
 </tr>
 <tr>
 <td>3000 Society Godzilla vs. Blade Runner Badge PCB ONLY</td>
