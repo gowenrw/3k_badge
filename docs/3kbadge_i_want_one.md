@@ -14,47 +14,47 @@ Here are the badge options that will be available at Defcon 27:
 
 <table>
 <tr>
-<th width="60%">Standard Badge Options</th>
-<th width="20%">Qty</th>
-<th width="20%">Price Each</th>
+<th width="75%">Standard Badge Options</th>
+<th width="10%">Qty</th>
+<th width="15%">Price Each</th>
 </tr>
 <tr>
 <td>DC27 Godzilla vs. Blade Runner Badge PCB and Lanyard ONLY</td>
 <td>80</td>
-<td>**$20**</td>
+<td><b>$20</b></td>
 </tr>
 <tr>
 <td>DC27 Godzilla vs. Blade Runner Badge Kit with all components EXCEPT the Battery</td>
 <td>120</td>
-<td>**$60**</td>
+<td><b>$60</b></td>
 </tr>
 <tr>
 <td>DC27 Godzilla vs. Blade Runner Badge Fully Assembled w/ Lanyard & Battery</td>
 <td>20</td>
-<td>**$120**</td>
+<td><b>$120</b></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<th width="60%">*Rare* Badge Options For Collectors</th>
-<th width="20%">Qty</th>
-<th width="20%">Price Each</th>
+<th width="75%">*Rare* Badge Options For Collectors</th>
+<th width="10%">Qty</th>
+<th width="15%">Price Each</th>
 </tr>
 <tr>
 <td>3000 Society Godzilla vs. Blade Runner Badge PCB ONLY</td>
 <td>10</td>
-<td>**$40**</td>
+<td><b>$40</b></td>
 </tr>
 <tr>
 <td>DC27 Prototype Green PCB Godzilla vs. Blade Runner Badge Fully Assembled w/ Lanyard & Battery</td>
 <td>4</td>
-<td>**$140**</td>
+<td><b>$140</b></td>
 </tr>
 <tr>
 <td>3000 Society Godzilla vs. Blade Runner Badge Fully Assembled w/ Lanyard & Battery</td>
 <td>1</td>
-<td>**$160**</td>
+<td><b>$160</b></td>
 </tr>
 </table>
 
