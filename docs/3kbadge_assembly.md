@@ -57,7 +57,7 @@ This is where you will find detailed step by step instructions on how to assembl
 <li> <img src="Headers_01.JPG"> </li>
 <li> Place the board down on the headers or use a bit of tape on the front to hold them in place. </li>
 <li> <img src="Headers_02.JPG"> </li>
-<li> * Solder the headers on the back of the PCB. </li>
+<li> Solder the headers on the back of the PCB. </li>
 <li> <img src="Headers_03.JPG"> </li>
 </ul>
 </li>
@@ -120,3 +120,5 @@ This is where you will find detailed step by step instructions on how to assembl
 <li> <img src="Final_Build_DC27_Prototype.JPG"> </li>
 </ul>
 </li>
+
+</ol>
