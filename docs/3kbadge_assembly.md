@@ -1,6 +1,6 @@
 # Godzilla vs. Blade Runner Badge Assembly
 
-[HOME](/) - [DETAILS](3kbadge_details.md) - [PARTS](3kbadge_components.md) - [ASSEMBLY](3kbadge_assembly.md) - [CODE](3kbadge_code.md) - [I_WANT_ONE!](3kbadge_i_want_one.md)
+[HOME](/) - [DETAILS](3kbadge_details.md) - [PARTS](3kbadge_components.md) - [ASSEMBLY](3kbadge_assembly.md) - [CODE](3kbadge_code.md) - [I WANT ONE!](3kbadge_i_want_one.md)
 
 This is where you will find detailed step by step instructions on how to assemble the badge.
 

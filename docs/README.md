@@ -1,6 +1,6 @@
 # Godzilla vs. Blade Runner Badge
 
-[HOME](/) - [DETAILS](3kbadge_details.md) - [PARTS](3kbadge_components.md) - [ASSEMBLY](3kbadge_assembly.md) - [CODE](3kbadge_code.md) - [I_WANT_ONE!](3kbadge_i_want_one.md)
+[HOME](/) - [DETAILS](3kbadge_details.md) - [PARTS](3kbadge_components.md) - [ASSEMBLY](3kbadge_assembly.md) - [CODE](3kbadge_code.md) - [I WANT ONE!](3kbadge_i_want_one.md)
 
 The 3000 Society Badge was created by [@alt_bier](https://twitter.com/alt_bier) to commemorate the 10th anniversary of this awesome gaming group for their conference May 31st - June 1st 2019.
 The theme for 3000 Society 2019 conference was Godzilla vs. Blade Runner which has been used as the concept for the badge.

@@ -1,4 +1,4 @@
-# Godzilla vs. Blade Runner Badge - I WANT ONE!
+# Godzilla v. Blade Runner Badge - WANT ONE!
 
 [HOME](/) - [DETAILS](3kbadge_details.md) - [PARTS](3kbadge_components.md) - [ASSEMBLY](3kbadge_assembly.md) - [CODE](3kbadge_code.md) - [I WANT ONE!](3kbadge_i_want_one.md)
 
