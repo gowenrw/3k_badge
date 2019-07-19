@@ -12,17 +12,51 @@ These badges will be available for purchase at the conference at a location yet 
 
 Here are the badge options that will be available at Defcon 27:
 
-| Standard Badge Options | Qty      | Price Each |  
-| ---------------------- | :------: | ---: |
-| DC27 Godzilla vs. Blade Runner Badge PCB and Lanyard ONLY | 80 | **$20** |
-| DC27 Godzilla vs. Blade Runner Badge Kit with all components EXCEPT the Battery | 120 | **$60** |
-| DC27 Godzilla vs. Blade Runner Badge Fully Assembled w/ Lanyard & Battery | 20 | **$120** |
+<table border=1>
+<tr>
+<th width="60%"">Standard Badge Options</th>
+<th width="20%"">Qty</th>
+<th width="20%"">Price Each</th>
+</tr>
+<tr>
+<td>DC27 Godzilla vs. Blade Runner Badge PCB and Lanyard ONLY</td>
+<td>80</td>
+<td>**$20**</td>
+</tr>
+<tr>
+<td>DC27 Godzilla vs. Blade Runner Badge Kit with all components EXCEPT the Battery</td>
+<td>120</td>
+<td>**$60**</td>
+</tr>
+<tr>
+<td>DC27 Godzilla vs. Blade Runner Badge Fully Assembled w/ Lanyard & Battery</td>
+<td>20</td>
+<td>**$120**</td>
+</tr>
+</table>
 
-| *Rare* Badge Options For Collectors | Qty | Price Each |  
-| ---------------------- | :------: | ---: |
-| 3000 Society Godzilla vs. Blade Runner Badge PCB ONLY | 10 | **$40** |
-| DC27 Prototype Green PCB Godzilla vs. Blade Runner Badge Fully Assembled w/ Lanyard & Battery | 4 | **$140** |
-| 3000 Society Godzilla vs. Blade Runner Badge Fully Assembled w/ Lanyard & Battery | 1 | **$160** |
+<table border=1>
+<tr>
+<th width="60%"">*Rare* Badge Options For Collectors</th>
+<th width="20%"">Qty</th>
+<th width="20%"">Price Each</th>
+</tr>
+<tr>
+<td>3000 Society Godzilla vs. Blade Runner Badge PCB ONLY</td>
+<td>10</td>
+<td>**$40**</td>
+</tr>
+<tr>
+<td>DC27 Prototype Green PCB Godzilla vs. Blade Runner Badge Fully Assembled w/ Lanyard & Battery</td>
+<td>4</td>
+<td>**$140**</td>
+</tr>
+<tr>
+<td>3000 Society Godzilla vs. Blade Runner Badge Fully Assembled w/ Lanyard & Battery</td>
+<td>1</td>
+<td>**$160**</td>
+</tr>
+</table>
 
 Note: `The badge kits will NOT contain a Battery.`
 We determined it would be too much hassle to try to get over 100 batteries to Vegas.
