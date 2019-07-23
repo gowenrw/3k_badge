@@ -12,7 +12,10 @@ This badge has been reworked by team **Altbier and Chill** for the [Defcon 27](h
 
 A portion of the proceeds will be donated to [BSides DFW](http://www.bsidesdfw.com/) to help this awesome conference.
 
-Here is a picture of the badge fully assembled (3000 Society Conference Version):
+Here is a picture of the DC27 Conference Version of the badge fully assembled (Click for Larger Image):
+[![DC27badge](DC27_Badge_sm.jpg)](DC27_Badge_bg.jpg)
+
+Here is a picture of the 3000 Society Conference Version of the badge fully assembled:
 ![3kbadge](3kbadge.JPG)
 
 Since a picture alone doesn't capture the scale or the blinkey lights I put together a quick video for your enjoyment:
